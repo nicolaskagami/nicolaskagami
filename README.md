@@ -1,4 +1,4 @@
-👋 Hey. I'm Nicolas. Find me online @ [linkedin.com/in/nicolaskagami](https://www.linkedin.com/in/nicolaskagami/), mail @ nicolaskagami@gmail.com.
+👋 Hey. I'm Nicolas. Find me @ [linkedin.com/in/nicolaskagami](https://www.linkedin.com/in/nicolaskagami/), mail @ nicolaskagami@gmail.com.
 
 ### Currently
 
@@ -9,7 +9,7 @@
 
 - senior software engineer @ __Ditto__, where I built mesh networking infrastructure in Rust — routing protocols, overlay networks, and topology optimization
 - lead engineer @ __Netmetric__, where I led a nationally-certified network measurement platform with 20M+ probes, built high-efficiency C/C++ apps on Android and Linux, and wrangled 60+ network KPIs out of a multi-agent coordination system
-- MSc student @ __UFRGS__, researching network capacity and bandwidth estimation using P4 and In-band Network Telemetry
+- MSc student @ __UFRGS__, where I researched programmable networks, SDN, measurements techniques and video QoE prediction
 
 ### Publications
 #### [Google Scholar](https://scholar.google.com/citations?user=iOgHiNUAAAAJ&hl=en) | [IEEE](https://ieeexplore.ieee.org/author/37086040541) | [ORCID](https://orcid.org/0000-0002-3970-0683)
