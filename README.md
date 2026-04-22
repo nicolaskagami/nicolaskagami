@@ -7,7 +7,7 @@
 
 ### Past experiences
 
-- senior software engineer @ __Ditto__, where I built mesh networking infrastructure in Rust — routing protocols, overlay networks, and topology optimization
+- senior software engineer @ __Ditto__, where I built mesh networking infrastructure in Rust, working with routing protocols, overlay networks, and topology optimization
 - lead engineer @ __Netmetric__, where I led a nationally-certified network measurement platform with 20M+ probes, built high-efficiency C/C++ apps on Android and Linux, and wrangled 60+ network KPIs out of a multi-agent coordination system
 - MSc student @ __UFRGS__, where I researched programmable networks, SDN, measurements techniques and video QoE prediction
 
