@@ -2,14 +2,15 @@
 
 ### Currently
 
+- networking software engineer @ [__Oxide Computer Company__](https://oxide.computer)
 - consulting engineer @ __Netmetric__ (with Telefónica), working on network measurement and TLS
 - interested in Rust, networking, and distributed systems
 
 ### Past experiences
 
-- senior software engineer @ __Ditto__, where I built mesh networking infrastructure in Rust, working with routing protocols, overlay networks, and topology optimization
+- senior software engineer @ [__Ditto__](https://www.ditto.com), where I built mesh networking infrastructure in Rust, working with routing protocols, overlay networks, and topology optimization
 - lead engineer @ __Netmetric__, where I led a nationally-certified network measurement platform with 20M+ probes, built high-efficiency C/C++ apps on Android and Linux, and wrangled 60+ network KPIs out of a multi-agent coordination system
-- MSc student @ __UFRGS__, where I researched programmable networks, SDN, measurements techniques and video QoE prediction
+- MSc student @ [__UFRGS__](https://www.inf.ufrgs.br/site/en), where I researched programmable networks, SDN, measurements techniques and video QoE prediction
 
 ### Publications
 #### [Google Scholar](https://scholar.google.com/citations?user=iOgHiNUAAAAJ&hl=en) | [IEEE](https://ieeexplore.ieee.org/author/37086040541) | [ORCID](https://orcid.org/0000-0002-3970-0683)
